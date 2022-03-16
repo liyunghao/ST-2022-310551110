@@ -2,9 +2,9 @@
 [![Java CI with Maven](https://github.com/liyunghao/ST-2022-310551110/actions/workflows/javaTestCI.yml/badge.svg)](https://github.com/liyunghao/ST-2022-310551110/actions/workflows/javaTestCI.yml)
 
 ## Build Failed
-![Build Failed](Screenshot/CIFailed.png)
-![Build Failed Message](Screenshot/errorMsg.png)
+![Build Failed](screenshot/CIFailed.png)
+![Build Failed Message](screenshot/errorMsg.png)
 
 ## Build Success
-![Build Success](Screenshot/CISuccess.png)
-![Build Success Message](Screentshot/successMsg.png)
+![Build Success](screenshot/CISuccess.png)
+![Build Success Message](screentshot/successMsg.png)
