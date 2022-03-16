@@ -8,5 +8,3 @@
 ## Build Success
 ![Build Success](screenshot/CISuccess.png)
 ![Build Success Message](screenshot/successMsg.png)
-:x
-:q
