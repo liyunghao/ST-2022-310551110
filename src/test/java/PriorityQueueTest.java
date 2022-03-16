@@ -15,7 +15,7 @@ public class PriorityQueueTest {
             Arguments.of(new int[]{-3, -1, -2, 5}, new int[]{-3, -2, -1, 5}),
             Arguments.of(new int[]{3, -2, -5, -1, 2}, new int[]{-5, -2, -1, 2, 3}),
             Arguments.of(new int[]{-3, 1, 11, 0, 3, 9}, new int[]{-3, 0, 1, 3, 9, 11}),
-            Arguments.of(new int[]{7, 3, 2, -2, -1}, new int[]{-2, -1, 2, 3, 7})
+            Arguments.of(new int[]{7, 3, 2, -2, -1}, new int[]{-2, -1, 2, 3, 6})
         );
     }
 
